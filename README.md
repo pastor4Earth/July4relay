@@ -9,3 +9,7 @@ foo bar
 ```elisp
 (setq foo 'bar)
 ```
+
+```bash
+echo "merp"
+```
