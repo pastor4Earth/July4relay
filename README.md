@@ -2,7 +2,9 @@ test
 
 * list elem 1
   * list elem 2
+    body of list elem 2
     * list elem 3
+      body of list elem 3
 
 ![Alt text](/images/cool-story-bro-sylvester-stallone.jpg?raw=true "test image")
 
