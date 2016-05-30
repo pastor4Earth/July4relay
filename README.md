@@ -1,7 +1,9 @@
 test
 
 - [ ] to do entry 1
+- 
 - [ ] to do entry 2
+- 
 - [x] to do 3
 - [x] to do 4
 
