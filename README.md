@@ -22,6 +22,8 @@ http://starecat.com/content/wp-content/uploads/cool-story-bro-sylvester-stallone
 
 [link test 2](http://starecat.com/content/wp-content/uploads/cool-story-bro-sylvester-stallone.jpg)
 
+![test text](/images/cool-story-bro-sylvester-stallone.jpg?raw=true)
+
 ![Alt text](/images/cool-story-bro-sylvester-stallone.jpg?raw=true "test image")
 
 
