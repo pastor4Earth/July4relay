@@ -18,6 +18,8 @@ test
 
 Link Test:
 
+![ScreenShot](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
+
 http://starecat.com/content/wp-content/uploads/cool-story-bro-sylvester-stallone.jpg
 
 [link test 2](http://starecat.com/content/wp-content/uploads/cool-story-bro-sylvester-stallone.jpg)
