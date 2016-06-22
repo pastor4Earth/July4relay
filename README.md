@@ -1,12 +1,16 @@
 test
 
 - [ ] to do entry 1
+- 
+this is another change
 
 - [ ] to do entry 2
  
 - [x] to do 3
 
 - [x] to do 4
+
+this is a change
 
 * list elem 1
   * list elem 2
